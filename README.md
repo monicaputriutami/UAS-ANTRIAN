@@ -1,4 +1,40 @@
+# LINK DEMO : 
 # CodeIgniter 4 Framework
+# CodeIgniter 4 Framework
+# NAMA : MONICA PUTRI UTAMI
+# KELAS : TI 19 B2
+# NIM : 311910190
+"UAS MATA KULIAH PEMROGRAMAN WEB SEMESTER 4"
+"APLIKASI ANTRIAN BERBASIS WEB MENGGUNAKAN FRAMEWORK CODEIGNITER 4"
+
+# 1. DESAIN DATABASE 
+
+![image](https://user-images.githubusercontent.com/81574673/127012304-d2ccb940-8e06-4b0a-8d33-e95cf39ab549.png)
+
+# INDEX
+
+![image](https://user-images.githubusercontent.com/81574673/127013116-0dd047e7-eaec-490a-810a-8950e658d597.png)
+
+# CRUD Pelayanan 
+
+![image](https://user-images.githubusercontent.com/81574673/127013382-ad2c86ca-3ee3-447e-84a0-44567febd893.png)
+
+# Ambil Antrian 
+
+![image](https://user-images.githubusercontent.com/81574673/127013821-2cce01db-5246-48a6-a104-67f88194d960.png)
+
+# HASIL ketika berhasil antrian 
+
+![image](https://user-images.githubusercontent.com/81574673/127014213-b732bea7-3c58-4013-8ce7-4b8855bcd278.png)
+
+# Loket Panggil
+
+![image](https://user-images.githubusercontent.com/81574673/127014425-c0aff425-f4e8-4207-91b3-0806b5ce452c.png)
+
+# Result ketika berhasil Update Pelayanan
+
+![image](https://user-images.githubusercontent.com/81574673/127015497-65b0b59e-9001-49c4-9246-d3272b4a146a.png)
+
 
 ## What is CodeIgniter?
 
